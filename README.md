@@ -44,7 +44,7 @@ Captured live traffic and decoded DNS resolution, the TCP three-way handshake, a
 
 **Tools:** `Wireshark`
 
-🔗 View Repository → Github Link
+🔗 [View Repository → https://github.com/myrouz/Lab-2-WireShark-and-Network-Analysis](https://github.com/myrouz/Lab-2-WireShark-and-Network-Analysis)
 
 ----
 
