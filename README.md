@@ -80,7 +80,7 @@ Deployed Nessus on an Azure Ubuntu Server VM and scanned for weaknesses, which f
 
 **Tools:** `Nessus` `Azure` `Linux` `PowerShell`
 
-🔗 View Repository → Github Link
+🔗 [View Repository → https://github.com/myrouz/Lab-5-Nessus-Vulnerability-Scanning](https://github.com/myrouz/Lab-5-Nessus-Vulnerability-Scanning)
 
 ---
 Portfolio Summary
