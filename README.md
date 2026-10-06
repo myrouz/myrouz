@@ -32,7 +32,7 @@ Deployed a Windows Server 2025 domain controller in Azure, enforced settings thr
 
 **Tools:** `Azure` `Windows Server` `Active Directory` `Group Policy`
 
-🔗 View Repository → Github Link
+🔗 [View Repository → https://github.com/myrouz/Lab-1-Active-Directory-Domain-Services-on-Azure](https://github.com/myrouz/Lab-1-Active-Directory-Domain-Services-on-Azure)
 
 ----
 
