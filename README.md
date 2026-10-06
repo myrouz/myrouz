@@ -83,8 +83,8 @@ Deployed Nessus on an Azure Ubuntu Server VM and scanned for weaknesses, which f
 🔗 [View Repository → https://github.com/myrouz/Lab-5-Nessus-Vulnerability-Scanning](https://github.com/myrouz/Lab-5-Nessus-Vulnerability-Scanning)
 
 ---
-Portfolio Summary
---- 
+## 🗂️ Portfolio Summary
+
 
 This portfolio consists of five labs that follow the core workflow of a security analyst: identity and access ➡️ network visibility ➡️ log monitoring ➡️ ITSM process ➡️ and vulnerability management.
 
