@@ -30,7 +30,7 @@
 
 **Built the identity backbone for a small enterprise network in the cloud.**
 
-Deployed a Windows Server 2025 domain controller in Azure, enforced settings through Group Policy Objects, and joined client machines to the domain. Every later lab in this portfolio runs on this foundation.
+Deployed a Windows Server 2025 domain controller in Azure, enforced settings through Group Policy Objects, and joined client machines to the domain. This domain environment serves as the foundation for every subsequent lab in this portfolio.
 
 **Tools:** `Azure` `Windows Server` `Active Directory` `Group Policy`
 
