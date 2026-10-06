@@ -56,7 +56,7 @@ Forwarded Windows event logs to a Splunk Enterprise instance on Linux, then gene
 
 **Tools:** `Splunk` `Linux` `Windows Event Logs`
 
-🔗 View Repository → Github Link
+🔗 [View Repository → https://github.com/myrouz/Lab-3-Splunk-SIEM-And-Log-Analysis](https://github.com/myrouz/Lab-3-Splunk-SIEM-And-Log-Analysis)
 
 ----
 
@@ -68,7 +68,7 @@ Worked through the full incident lifecycle in a ServiceNow Personal Developer In
 
 **Tools:** `ServiceNow`
 
-🔗 View Repository → Github Link
+🔗 [View Repository → https://github.com/myrouz/Lab-4-ServiceNow-ITSM-Information-Technology-Service-Management](https://github.com/myrouz/Lab-4-ServiceNow-ITSM-Information-Technology-Service-Management)
 
 ----
 
