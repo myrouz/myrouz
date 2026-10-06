@@ -9,7 +9,7 @@
 
 ---
 
-## 🧰 Tech Stack
+## 🧰 Lab Toolkit
 
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D4?style=for-the-badge&logo=windows&logoColor=white)
@@ -23,8 +23,6 @@
 
 ----
 ## 💼 Featured Projects
-
----
 
 ## 🔐 Lab 1 — Active Directory Deployment
 
@@ -62,9 +60,9 @@ Forwarded Windows event logs to a Splunk Enterprise instance on Linux, then gene
 
 ----
 
-## 🎫 Lab 4 — ITSM Workflow with ServiceNow
+## 🎟️ Lab 4 — ITSM Workflow with ServiceNow
 
-**Modeled how an IT team handles day-to-day operations from request to resolution.**
+**Simulated how an IT department coordinates day-to-day operations, from the first request to final resolution.**
 
 Worked through the full incident lifecycle in a ServiceNow Personal Developer Instance, including service catalog requests and change management. Added reporting dashboards to track ticket activity.
 
@@ -74,7 +72,7 @@ Worked through the full incident lifecycle in a ServiceNow Personal Developer In
 
 ----
 
-##🛡️ Lab 4 — ITSM Workflow with ServiceNow
+## 🛡️ **Lab 5 — Vulnerability Management with Nessus**
 
 Took a vulnerability from detection to verified fix.
 
@@ -83,4 +81,12 @@ Deployed Nessus on an Azure Ubuntu Server VM and scanned for weaknesses, which f
 **Tools:** `Nessus` `Azure` `Linux` `PowerShell`
 
 🔗 View Repository → Github Link
+
+---
+Portfolio Summary
+--- 
+
+This portfolio consists of five labs that follow the core workflow of a security analyst: identity and access ➡️ network visibility ➡️ log monitoring ➡️ ITSM process ➡️ and vulnerability management.
+
+Each lab builds on the one before it. I built the environment, learned what normal traffic looks like, detected simulated attacks in Splunk, tracked the work through ServiceNow, and closed the loop by finding, fixing, and verifying a vulnerability.
 
