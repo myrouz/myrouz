@@ -33,11 +33,11 @@ Collectively, these labs demonstrate foundational competencies in system adminis
 
 ## 🔐 Lab 1 — Active Directory Deployment
 
-**Built the identity backbone for a small enterprise network in the cloud.**
+*Establishing the identity backbone for an enterprise network in the cloud.*
 
-Bottom Line Up Front: Build an enterprise identity backbone by promoting a Windows Server 2025 instance to a Domain Controller (lab.local), configuring an Organizational Unit (OU) structure, creating role-based security groups, provisioning user accounts via PowerShell scripts, and enforcing system configurations centrally using Group Policy Objects (GPOs). 
+**Bottom Line Up Front:** Deploy Windows Server 2025 as a domain controller for the lab.local domain, configure an Organizational Unit (OU) structure and role-based security groups, automate user provisioning with PowerShell scripts, and enforce centralized system configurations through Group Policy Objects (GPOs).
 
-Core Value: Grants practical mastery over the foundational tool used for identity and access management across on-premises and hybrid cloud enterprise environments.
+**Core Value:** Develops practical expertise in Active Directory administration and identity and access management (IAM), foundational to securing and managing identities across on-premises and hybrid cloud enterprise environments.
 
 **Tools:** `Azure` `Windows Server` `Active Directory` `Group Policy`
 
@@ -47,11 +47,11 @@ Core Value: Grants practical mastery over the foundational tool used for identit
 
 ## 📡 Lab 2 — Network Traffic Analysis with Wireshark
 
-**Turned raw packet captures into a plain-language picture of what happens on the wire.**
+*Transforming raw packet captures into actionable insights into network communications.*
 
-**Bottom Line Up Front:** Capture live raw network data using Wireshark, apply precise display filters (dns, http, tcp), investigate the steps of the TCP three-way handshake, analyze DNS lookup queries, trace cleartext credentials in unencrypted HTTP traffic, and reconstruct full TCP application streams.   
+**Bottom Line Up Front:** Capture and analyze network traffic using Wireshark, apply targeted display filters (dns, http, tcp), examine the TCP three-way handshake, investigate DNS queries, identify cleartext credentials in unencrypted HTTP traffic, and reconstruct TCP application streams to understand network communications.
 
-**Core Value:** Provides the hands-on diagnostic and packet-inspection skills required by network engineers and security analysts to troubleshoot connectivity failures and investigate security incidents.   
+**Core Value:** Develops practical packet analysis and network troubleshooting skills essential for diagnosing connectivity issues, understanding network protocols, identifying insecure communications, and investigating potential security incidents.  
 
 **Tools:** `Wireshark`
 
@@ -61,11 +61,11 @@ Core Value: Grants practical mastery over the foundational tool used for identit
 
 ## 📊 Lab 3 — SIEM Implementation with Splunk
 
-**Detected simulated attacks in real time using centralized log monitoring.**
+*Centralizing security logs to investigate suspicious activity and detect simulated attacks.*
 
-**Bottom Line Up Front:** Deploy a Splunk SIEM instance on Ubuntu, configure a Universal Forwarder on your Windows Server to stream Windows Event Logs over encrypted port 9997, write custom Splunk Processing Language (SPL) queries to isolate authentication activity, build operational security dashboards, and automate threat detection using scheduled alerts.  
+**Bottom Line Up Front:** Deploy a Splunk SIEM instance on Ubuntu, configure a Universal Forwarder on Windows Server to transmit Windows Event Logs over port 9997 with encrypted transport, develop custom Splunk Processing Language (SPL) queries to investigate authentication activity, build security dashboards for operational visibility, and configure scheduled alerts to detect suspicious events.  
 
-**Core Value:** Develops essential Security Operations Center (SOC) capabilities for centralized log management, anomaly investigation, and scalable, continuous security monitoring.
+**Core Value:** Develops foundational Security Operations Center (SOC) skills in centralized log management, authentication monitoring, anomaly investigation, security event correlation, and automated threat detection to support continuous security monitoring.
 
 **Tools:** `Splunk` `Linux` `Windows Event Logs`
 
@@ -75,11 +75,11 @@ Core Value: Grants practical mastery over the foundational tool used for identit
 
 ## 🎟️ Lab 4 — ITSM Workflow with ServiceNow
 
-**Simulated how an IT department coordinates day-to-day operations, from the first request to final resolution.**
+*Simulating enterprise IT service delivery, from initial request submission to resolution and reporting.*
 
-**Bottom Line Up Front:** Navigate a ServiceNow Personal Developer Instance (PDI) to manage the full ITIL lifecycle, including incident creation and resolution, priority and SLA calculations, self-service item development within the Service Catalog, automated change-management approval workflows, and analytical reporting.
+**Bottom Line Up Front:** Configure and navigate a ServiceNow Personal Developer Instance (PDI) to manage core ITIL workflows, including incident creation and resolution, priority assignment and Service Level Agreement (SLA) tracking, self-service item configuration within the Service Catalog, automated change-management approval workflows, and operational performance reporting.
 
-**Core Value:** Introduces the standard enterprise IT Service Management platform used universally to track, route, and audit operational IT workflows.   
+**Core Value:** Develops practical IT Service Management (ITSM) skills in incident tracking, service request fulfillment, change control, workflow automation, SLA management, and operational reporting using a widely adopted enterprise service management platform.
 
 **Tools:** `ServiceNow`
 
@@ -89,9 +89,11 @@ Core Value: Grants practical mastery over the foundational tool used for identit
 
 ## 🛡️ **Lab 5 — Vulnerability Management with Nessus**
 
-**Bottom Line Up Front:** Deploy Nessus Essentials, execute unauthenticated network discovery scans, conduct credentialed internal vulnerability assessments using administrative domain credentials, identify underlying operating system weaknesses, interpret Common Vulnerability Scoring System (CVSS) metrics, and complete the patching and verification remediation cycle.
+*Identifying security weaknesses, prioritizing risk, and validating remediation across enterprise systems.*
 
-**Core Value:** Develops proficiency in the industry-standard vulnerability management lifecycle, including security exposure identification, risk-based prioritization, and remediation to reduce the risk of exploitation.
+**Bottom Line Up Front:** Deploy Nessus Essentials on Ubuntu and provision a Windows virtual machine (VM) as the target for vulnerability scanning. Perform unauthenticated network discovery scans and credentialed vulnerability assessments using administrative domain credentials, identify operating system and configuration weaknesses, interpret Common Vulnerability Scoring System (CVSS) scores to prioritize remediation, and complete the vulnerability management cycle through patching and verification scans.
+
+**Core Value:** Develops practical skills in the vulnerability management lifecycle, including security exposure identification, risk-based prioritization, remediation planning, and verification to reduce exploitable weaknesses and strengthen enterprise security posture.
 
 **Tools:** `Nessus` `Azure` `Linux` `PowerShell`
 
