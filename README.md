@@ -1,11 +1,18 @@
 # Mysha Rouzard | Network Administrator
 
----
-
 ## **📜 Certifications**
 
 ![Microsoft Certified: Azure Fundamentals](https://img.shields.io/badge/Microsoft_Certified-Azure_Fundamentals_(AZ--900)-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-C8202F?style=for-the-badge&logo=comptia&logoColor=white)
+
+---
+## 🗂️ Portfolio Summary
+
+This portfolio consists of five interconnected labs that simulate an enterprise IT environment and follow the core workflow of a security analyst: identity and access management ➡️ network visibility ➡️ log monitoring and threat detection ➡️ IT service management (ITSM) ➡️ vulnerability management.
+
+Each lab builds on the previous one to demonstrate an end-to-end security operations workflow, from infrastructure deployment and network analysis to threat detection, incident tracking, and vulnerability remediation. The environment was established using Active Directory, normal network traffic was analyzed with Wireshark, simulated security events were investigated in Splunk, operational workflows were managed through ServiceNow, and vulnerabilities were identified, remediated, and verified using Nessus.
+
+Collectively, these labs demonstrate foundational competencies in system administration, cloud infrastructure, network analysis, security monitoring, IT service management, and vulnerability management. Together, they illustrate how enterprise technologies integrate to support operational efficiency, threat detection, incident response, and continuous security improvement.
 
 ---
 
@@ -28,7 +35,9 @@
 
 **Built the identity backbone for a small enterprise network in the cloud.**
 
-Deployed a Windows Server 2025 domain controller in Azure, enforced settings through Group Policy Objects, and joined client machines to the domain. This domain environment serves as the foundation for every subsequent lab in this portfolio.
+Bottom Line Up Front: Build an enterprise identity backbone by promoting a Windows Server 2025 instance to a Domain Controller (lab.local), configuring an Organizational Unit (OU) structure, creating role-based security groups, provisioning user accounts via PowerShell scripts, and enforcing system configurations centrally using Group Policy Objects (GPOs). 
+
+Core Value: Grants practical mastery over the foundational tool used for identity and access management across on-premises and hybrid cloud enterprise environments.
 
 **Tools:** `Azure` `Windows Server` `Active Directory` `Group Policy`
 
@@ -40,7 +49,9 @@ Deployed a Windows Server 2025 domain controller in Azure, enforced settings thr
 
 **Turned raw packet captures into a plain-language picture of what happens on the wire.**
 
-Captured live traffic and decoded DNS resolution, the TCP three-way handshake, and the difference between HTTP and HTTPS at the packet level. The write-up shows why encryption matters by comparing readable and unreadable payloads.
+**Bottom Line Up Front:** Capture live raw network data using Wireshark, apply precise display filters (dns, http, tcp), investigate the steps of the TCP three-way handshake, analyze DNS lookup queries, trace cleartext credentials in unencrypted HTTP traffic, and reconstruct full TCP application streams.   
+
+**Core Value:** Provides the hands-on diagnostic and packet-inspection skills required by network engineers and security analysts to troubleshoot connectivity failures and investigate security incidents.   
 
 **Tools:** `Wireshark`
 
@@ -52,7 +63,9 @@ Captured live traffic and decoded DNS resolution, the TCP three-way handshake, a
 
 **Detected simulated attacks in real time using centralized log monitoring.**
 
-Forwarded Windows event logs to a Splunk Enterprise instance on Linux, then generated realistic security events such as failed logins and account lockouts. Built custom dashboards and alerts to surface those events as they happened.
+**Bottom Line Up Front:** Deploy a Splunk SIEM instance on Ubuntu, configure a Universal Forwarder on your Windows Server to stream Windows Event Logs over encrypted port 9997, write custom Splunk Processing Language (SPL) queries to isolate authentication activity, build operational security dashboards, and automate threat detection using scheduled alerts.  
+
+**Core Value:** Develops essential Security Operations Center (SOC) capabilities for centralized log management, anomaly investigation, and scalable, continuous security monitoring.
 
 **Tools:** `Splunk` `Linux` `Windows Event Logs`
 
@@ -64,7 +77,9 @@ Forwarded Windows event logs to a Splunk Enterprise instance on Linux, then gene
 
 **Simulated how an IT department coordinates day-to-day operations, from the first request to final resolution.**
 
-Worked through the full incident lifecycle in a ServiceNow Personal Developer Instance, including service catalog requests and change management. Added reporting dashboards to track ticket activity.
+**Bottom Line Up Front:** Navigate a ServiceNow Personal Developer Instance (PDI) to manage the full ITIL lifecycle, including incident creation and resolution, priority and SLA calculations, self-service item development within the Service Catalog, automated change-management approval workflows, and analytical reporting.
+
+**Core Value:** Introduces the standard enterprise IT Service Management platform used universally to track, route, and audit operational IT workflows.   
 
 **Tools:** `ServiceNow`
 
@@ -74,19 +89,18 @@ Worked through the full incident lifecycle in a ServiceNow Personal Developer In
 
 ## 🛡️ **Lab 5 — Vulnerability Management with Nessus**
 
-Took a vulnerability from detection to verified fix.
+**Bottom Line Up Front:** Deploy Nessus Essentials, execute unauthenticated network discovery scans, conduct credentialed internal vulnerability assessments using administrative domain credentials, identify underlying operating system weaknesses, interpret Common Vulnerability Scoring System (CVSS) metrics, and complete the patching and verification remediation cycle.
 
-Deployed Nessus on an Azure Ubuntu Server VM and scanned for weaknesses, which flagged CVE-2013-3900. Remediated it with a PowerShell script that sets the required registry value in both the 64-bit and WOW64 (32-bit) paths, then confirmed the finding was resolved.
+**Core Value:** Develops proficiency in the industry-standard vulnerability management lifecycle, including security exposure identification, risk-based prioritization, and remediation to reduce the risk of exploitation.
 
 **Tools:** `Nessus` `Azure` `Linux` `PowerShell`
 
 🔗 [View Repository → https://github.com/myrouz/Lab-5-Nessus-Vulnerability-Scanning](https://github.com/myrouz/Lab-5-Nessus-Vulnerability-Scanning)
 
 ---
-## 🗂️ Portfolio Summary
 
+##  **Final Takeaway**
 
-This portfolio consists of five labs that follow the core workflow of a security analyst: identity and access ➡️ network visibility ➡️ log monitoring ➡️ ITSM process ➡️ and vulnerability management.
+These five labs demonstrate how enterprise infrastructure, network visibility, centralized logging, IT service management, and vulnerability management work together to support a secure and operationally resilient environment. Through hands-on implementation, configuration, investigation, and remediation, this portfolio showcases foundational technical skills applicable to system administration, cloud operations, network security, and Security Operations Center (SOC) analysis.
 
-Each lab builds on the one before it. I built the environment, learned what normal traffic looks like, detected simulated attacks in Splunk, tracked the work through ServiceNow, and closed the loop by finding, fixing, and verifying a vulnerability.
-
+The overall objective was to move beyond individual tools and understand how each technology contributes to the broader security lifecycle—from establishing secure access and identifying suspicious activity to documenting incidents, prioritizing risks, and validating remediation. This portfolio establishes a practical foundation for continued development in enterprise IT operations, threat detection, incident response, and defensive security.
