@@ -31,6 +31,8 @@ Collectively, these labs demonstrate foundational competencies in system adminis
 ----
 ## 💼 Featured Projects
 
+<img width="1024" height="673" alt="Lab Work Together" src="https://github.com/user-attachments/assets/33977060-3a42-46c3-929b-1a3d74bc27c9" />
+
 ## 🔐 Lab 1 — Active Directory Deployment
 
 *Establishing the identity backbone for an enterprise network in the cloud.*
