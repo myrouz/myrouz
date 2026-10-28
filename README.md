@@ -14,6 +14,8 @@ Each lab builds on the previous one to demonstrate an end-to-end security operat
 
 Collectively, these labs demonstrate foundational competencies in system administration, cloud infrastructure, network analysis, security monitoring, IT service management, and vulnerability management. Together, they illustrate how enterprise technologies integrate to support operational efficiency, threat detection, incident response, and continuous security improvement.
 
+<img width="1024" height="673" alt="Lab Work Together" src="https://github.com/user-attachments/assets/33977060-3a42-46c3-929b-1a3d74bc27c9" />
+
 ---
 
 ## 🧰 Lab Toolkit
@@ -30,8 +32,6 @@ Collectively, these labs demonstrate foundational competencies in system adminis
 
 ----
 ## 💼 Featured Projects
-
-<img width="1024" height="673" alt="Lab Work Together" src="https://github.com/user-attachments/assets/33977060-3a42-46c3-929b-1a3d74bc27c9" />
 
 ## 🔐 Lab 1 — Active Directory Deployment
 
