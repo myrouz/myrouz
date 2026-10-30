@@ -14,7 +14,7 @@ Each lab builds on the one before it. I deployed and secured the infrastructure,
 
 I used Microsoft Azure to host the lab environment, Active Directory to manage identity and access, Wireshark to analyze network traffic, Splunk to monitor and investigate security events, ServiceNow to manage incidents and service requests, and Nessus to find, fix, and verify vulnerabilities.
 
-Together, these projects show hands-on experience in system administration, cloud infrastructure, network analysis, SIEM, ITSM, and vulnerability management, and how these tools work together to take an issue from detection to resolution
+Together, these projects demonstrate hands-on experience in system administration, cloud infrastructure, network analysis, SIEM, ITSM, and vulnerability management, while highlighting how these disciplines work together to support the security operations lifecycle.
 
 <img width="1024" height="673" alt="Lab Work Together" src="https://github.com/user-attachments/assets/33977060-3a42-46c3-929b-1a3d74bc27c9" />
 
@@ -105,13 +105,14 @@ Together, these projects show hands-on experience in system administration, clou
 
 ---
 
-## Final Takeaway
+## 🏁 Final Takeaway
 
-Completing these five labs showed me that security work isn't a set of separate tools. It's one connected workflow. Identity and access controls determine who can reach what, network analysis shows how systems communicate, and the SIEM turns raw logs into signals worth investigating. The ITSM process makes sure each of those signals is tracked, assigned, and resolved. Vulnerability management then closes the loop by finding weaknesses before they become incidents, and by verifying that fixes actually worked.
+Completing these five labs helped me understand that cybersecurity is not simply a collection of separate tools and technologies, but an interconnected process that requires each component to work together. Identity and access management establishes who can access specific resources, network analysis provides visibility into how systems communicate, and SIEM solutions help transform raw log data into meaningful alerts that security teams can investigate. ITSM ensures that identified issues are properly documented, assigned, tracked, and resolved. Vulnerability management completes the process by identifying weaknesses, prioritizing risks, and verifying that corrective actions have been successful.
 
-Building each lab on top of the last also taught me that good security depends on strong fundamentals. A misconfigured domain, an unmonitored network, or an untracked ticket creates gaps that no single tool can cover on its own.
+Building each environment step by step reinforced the importance of establishing strong technical foundations. Even a small configuration error, an unmonitored network segment, or an improperly managed ticket can create security and operational gaps. These experiences demonstrated that having the right tools is only part of an effective security strategy; those tools must also be properly configured, monitored, and integrated into established processes.
 
-Most importantly, these labs gave me hands-on practice with the full detect, respond, remediate, and verify cycle that security teams run every day, and a clear foundation to keep building on.
+Most importantly, this project gave me valuable hands-on experience with the full security operations lifecycle: detect, respond, remediate, and verify. Working through each lab helped me better understand how these processes support one another and how security professionals use them to identify threats, manage vulnerabilities, and maintain a stronger security posture. Overall, the experience strengthened my technical understanding and provided a practical foundation for applying these concepts in real-world cybersecurity environments.
+
 
 ---
 
