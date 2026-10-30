@@ -27,8 +27,6 @@ I used Microsoft Azure to host the lab environment, Active Directory to manage i
 
 Together, these projects demonstrate hands-on experience in system administration, cloud infrastructure, network analysis, SIEM, ITSM, and vulnerability management, while highlighting how these disciplines work together to support the security operations lifecycle.
 
-<img width="800" height="500" alt="Lab Work Together" src="https://github.com/user-attachments/assets/33977060-3a42-46c3-929b-1a3d74bc27c9" />
-
 ---
 
 ## 🧰 Lab Toolkit
