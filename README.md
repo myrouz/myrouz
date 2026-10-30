@@ -117,7 +117,7 @@ I'm building hands-on security analyst skills one lab at a time, from identity a
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mysharouzard8b746b16a)
 [![Email](https://img.shields.io/badge/Email-Message_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@example.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR-USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/myrouz)
 
 ### 💬 Happy to talk about
 - Active Directory, Group Policy, and Azure lab builds
