@@ -1,5 +1,16 @@
 # Mysha Rouzard | Network Operations Administrator 
 
+
+## 👋 About Me
+
+The most valuable technical experience comes from hands-on execution, working through real-world challenges, and understanding how technical decisions affect the broader enterprise.
+
+I document my projects to reinforce what I learn, share practical experience, and build a portfolio that shows how I apply IT and cybersecurity principles. My goal for every project and guide is simple: clear, structured documentation that gives engineers actionable guidance and gives decision-makers the clarity to make informed security and business decisions.
+
+I bring 5+ years of experience in help desk leadership, enterprise IT operations, and cybersecurity, supporting large-scale environments. I'm open to opportunities across IT and cybersecurity where I can build on that experience, deepen my skills in cloud infrastructure, identity and access management, and vulnerability management, and contribute to meaningful technical work.
+
+I look forward to expanding my portfolios with more lab projects and continuing to share what I learn along the way.
+
 ## **📜 Certifications**
 
 ![Microsoft Certified: Azure Fundamentals](https://img.shields.io/badge/Microsoft_Certified-Azure_Fundamentals_(AZ--900)-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
@@ -43,7 +54,7 @@ Together, these projects demonstrate hands-on experience in system administratio
 
 **Core Value:** Develops practical expertise in Active Directory administration and identity and access management (IAM), foundational to securing and managing identities across on-premises and hybrid cloud enterprise environments.
 
-**Tools:** `Azure` `Windows Server` `Active Directory` `Group Policy`
+**Tools:** `Azure` `Windows Server` `Active Directory` `Group Policy`  
 
 🔗 [View Repository → Lab 1: Active Directory Domain Services](https://github.com/myrouz/Lab-1-Active-Directory-Domain-Services-on-Azure)
 
@@ -71,7 +82,7 @@ Together, these projects demonstrate hands-on experience in system administratio
 
 **Core Value:** Develops foundational Security Operations Center (SOC) skills in centralized log management, authentication monitoring, anomaly investigation, security event correlation, and automated threat detection to support continuous security monitoring.
 
-**Tools:** `Splunk` `Linux` `Windows Event Logs`
+**Tools:** `Splunk` `Linux` `Windows Event Logs` `Visio Code`
 
 🔗 [View Repository → Lab 3: Splunk SIEM and Log Analysis](https://github.com/myrouz/Lab-3-Splunk-SIEM-And-Log-Analysis)
 
