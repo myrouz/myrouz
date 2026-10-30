@@ -1,4 +1,4 @@
-# Mysha Rouzard | Network Administrator
+# Mysha Rouzard | Network Operations Administrator 
 
 ## **📜 Certifications**
 
