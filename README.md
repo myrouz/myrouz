@@ -43,7 +43,7 @@ Collectively, these labs demonstrate foundational competencies in system adminis
 
 **Tools:** `Azure` `Windows Server` `Active Directory` `Group Policy`
 
-🔗 [View Repository → https://github.com/myrouz/Lab-1-Active-Directory-Domain-Services-on-Azure](https://github.com/myrouz/Lab-1-Active-Directory-Domain-Services-on-Azure)
+🔗 [View Repository → Lab 1: Active Directory Domain Services](https://github.com/myrouz/Lab-1-Active-Directory-Domain-Services-on-Azure)
 
 ----
 
@@ -57,7 +57,7 @@ Collectively, these labs demonstrate foundational competencies in system adminis
 
 **Tools:** `Wireshark`
 
-🔗 [View Repository → https://github.com/myrouz/Lab-2-WireShark-and-Network-Analysis](https://github.com/myrouz/Lab-2-WireShark-and-Network-Analysis)
+🔗 [View Repository → Lab 2: Network Traffic Analysis with Wireshark](https://github.com/myrouz/Lab-2-WireShark-and-Network-Analysis)
 
 ----
 
@@ -71,7 +71,7 @@ Collectively, these labs demonstrate foundational competencies in system adminis
 
 **Tools:** `Splunk` `Linux` `Windows Event Logs`
 
-🔗 [View Repository → https://github.com/myrouz/Lab-3-Splunk-SIEM-And-Log-Analysis](https://github.com/myrouz/Lab-3-Splunk-SIEM-And-Log-Analysis)
+🔗 [View Repository → Lab 3: Splunk SIEM and Log Analysis](https://github.com/myrouz/Lab-3-Splunk-SIEM-And-Log-Analysis)
 
 ----
 
@@ -85,11 +85,11 @@ Collectively, these labs demonstrate foundational competencies in system adminis
 
 **Tools:** `ServiceNow`
 
-🔗 [View Repository → https://github.com/myrouz/Lab-4-ServiceNow-ITSM-Information-Technology-Service-Management](https://github.com/myrouz/Lab-4-ServiceNow-ITSM-Information-Technology-Service-Management)
+🔗 [View Repository → Lab 4 — ITSM Workflow with ServiceNow](https://github.com/myrouz/Lab-4-ServiceNow-ITSM-Information-Technology-Service-Management)
 
 ----
 
-## 🛡️ **Lab 5 — Vulnerability Management with Nessus**
+## 🛡️ Lab 5 — Vulnerability Management with Nessus
 
 *Identifying security weaknesses, prioritizing risk, and validating remediation across enterprise systems.*
 
@@ -99,7 +99,7 @@ Collectively, these labs demonstrate foundational competencies in system adminis
 
 **Tools:** `Nessus` `Azure` `Linux` `PowerShell`
 
-🔗 [View Repository → https://github.com/myrouz/Lab-5-Nessus-Vulnerability-Scanning](https://github.com/myrouz/Lab-5-Nessus-Vulnerability-Scanning)
+🔗 [View Repository → Lab 5 — Vulnerability Management with Nessus](https://github.com/myrouz/Lab-5-Nessus-Vulnerability-Scanning)
 
 ---
 
