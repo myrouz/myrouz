@@ -113,22 +113,18 @@ The overall objective was to move beyond individual tools and understand how eac
 
 ## 🤝 Let's Connect
 
-I'm building hands-on security analyst skills one lab at a time, from identity and access to SIEM, ITSM, and vulnerability management. If you're hiring, working in a SOC or IT security team, or just learning the same path, I'd love to connect.
+I'm continuously expanding my technical skills through hands-on cybersecurity labs and practical projects, gaining experience in areas such as Identity & Access Management (IAM), SIEM, ITSM, and Vulnerability Management. With over 5 years of IT experience, I'm passionate about growing my expertise, taking on new challenges, and exploring opportunities across IT and cybersecurity.
+
+I'm always open to connecting with IT professionals, recruiters, and others in the industry. Whether it's sharing knowledge, discussing opportunities, or learning from one another, I'd love to connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mysharouzard8b746b16a)
-[![Email](https://img.shields.io/badge/Email-Message_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@example.com)
+[![Email](https://img.shields.io/badge/Email-Message_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:myrouzard@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/myrouz)
 
 ### 💬 Happy to talk about
 - Active Directory, Group Policy, and Azure lab builds
 - Splunk, ServiceNow, and Nessus workflows
-- Breaking into security analyst and SOC roles
 - Collaborating on or reviewing home lab projects
-
-### 📌 Currently
-- 🔬 Documenting each lab with a step-by-step walkthrough
-- 📄 Turning these labs into resume-ready experience
-- 🎯 Open to entry-level security analyst opportunities
 
 ⭐ If you found these labs useful, a star on the repo goes a long way!
 
