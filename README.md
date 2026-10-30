@@ -8,11 +8,13 @@
 ---
 ## 🗂️ Portfolio Summary
 
-This portfolio consists of five interconnected labs that simulate an enterprise IT environment and follow the core workflow of a security analyst: identity and access management ➡️ network visibility ➡️ log monitoring and threat detection ➡️ IT service management (ITSM) ➡️ vulnerability management.
+This portfolio consists of five connected, hands-on labs that simulate an enterprise IT environment and follow the core workflow of a security analyst: identity and access management ➡️  network visibility ➡️ log monitoring and threat detection ➡️ IT service management ➡️ and vulnerability management.
 
-Each lab builds on the previous one to demonstrate an end-to-end security operations workflow, from infrastructure deployment and network analysis to threat detection, incident tracking, and vulnerability remediation. The environment was established using Active Directory, normal network traffic was analyzed with Wireshark, simulated security events were investigated in Splunk, operational workflows were managed through ServiceNow, and vulnerabilities were identified, remediated, and verified using Nessus.
+Each lab builds on the one before it. I deployed and secured the infrastructure, analyzed its network traffic, detected suspicious activity in the logs, tracked issues as incidents, and then identified, remediated, and verified vulnerabilities.
 
-Collectively, these labs demonstrate foundational competencies in system administration, cloud infrastructure, network analysis, security monitoring, IT service management, and vulnerability management. Together, they illustrate how enterprise technologies integrate to support operational efficiency, threat detection, incident response, and continuous security improvement.
+I used Microsoft Azure to host the lab environment, Active Directory to manage identity and access, Wireshark to analyze network traffic, Splunk to monitor and investigate security events, ServiceNow to manage incidents and service requests, and Nessus to find, fix, and verify vulnerabilities.
+
+Together, these projects show hands-on experience in system administration, cloud infrastructure, network analysis, SIEM, ITSM, and vulnerability management, and how these tools work together to take an issue from detection to resolution
 
 <img width="1024" height="673" alt="Lab Work Together" src="https://github.com/user-attachments/assets/33977060-3a42-46c3-929b-1a3d74bc27c9" />
 
@@ -103,11 +105,13 @@ Collectively, these labs demonstrate foundational competencies in system adminis
 
 ---
 
-##  **Final Takeaway**
+## Final Takeaway
 
-These five labs demonstrate how enterprise infrastructure, network visibility, centralized logging, IT service management, and vulnerability management work together to support a secure and operationally resilient environment. Through hands-on implementation, configuration, investigation, and remediation, this portfolio showcases foundational technical skills applicable to system administration, cloud operations, network security, and Security Operations Center (SOC) analysis.
+Completing these five labs showed me that security work isn't a set of separate tools. It's one connected workflow. Identity and access controls determine who can reach what, network analysis shows how systems communicate, and the SIEM turns raw logs into signals worth investigating. The ITSM process makes sure each of those signals is tracked, assigned, and resolved. Vulnerability management then closes the loop by finding weaknesses before they become incidents, and by verifying that fixes actually worked.
 
-The overall objective was to move beyond individual tools and understand how each technology contributes to the broader security lifecycle—from establishing secure access and identifying suspicious activity to documenting incidents, prioritizing risks, and validating remediation. This portfolio establishes a practical foundation for continued development in enterprise IT operations, threat detection, incident response, and defensive security.
+Building each lab on top of the last also taught me that good security depends on strong fundamentals. A misconfigured domain, an unmonitored network, or an untracked ticket creates gaps that no single tool can cover on its own.
+
+Most importantly, these labs gave me hands-on practice with the full detect, respond, remediate, and verify cycle that security teams run every day, and a clear foundation to keep building on.
 
 ---
 
