@@ -127,9 +127,7 @@ Most importantly, this project gave me valuable hands-on experience with the ful
 
 ## 🤝 Let's Connect
 
-I'm continuously expanding my technical skills through hands-on cybersecurity labs and practical projects, gaining experience in areas such as Identity & Access Management (IAM), SIEM, ITSM, and Vulnerability Management. With over 5 years of IT experience, I'm passionate about growing my expertise, taking on new challenges, and exploring opportunities across IT and cybersecurity.
-
-I'm always open to connecting with IT professionals, recruiters, and others in the industry. Whether it's sharing knowledge, discussing opportunities, or learning from one another, I'd love to connect!
+I'm always glad to connect with IT professionals, recruiters, and anyone in the industry, whether to share knowledge, talk about opportunities, or learn from each other.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mysharouzard8b746b16a)
 [![Email](https://img.shields.io/badge/Email-Message_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:myrouzard@gmail.com)
