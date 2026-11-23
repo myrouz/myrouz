@@ -15,6 +15,7 @@ I look forward to expanding my portfolio with more lab projects and continuing t
 
 ![Microsoft Certified: Azure Fundamentals](https://img.shields.io/badge/Microsoft_Certified-Azure_Fundamentals_(AZ--900)-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-C8202F?style=for-the-badge&logo=comptia&logoColor=white)
+![CompTIA CySA+](https://img.shields.io/badge/CompTIA-CySA%2B-00A3A1?style=for-the-badge&logo=comptia&logoColor=white)
 
 ---
 ## 🗂️ Portfolio Summary
