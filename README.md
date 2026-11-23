@@ -7,7 +7,7 @@ The most valuable technical experience comes from hands-on execution, working th
 
 I document my projects to reinforce what I learn, share practical experience, and build a portfolio that shows how I apply IT and cybersecurity principles. My goal for every project and guide is simple: clear, structured documentation that gives engineers actionable guidance and gives decision-makers the clarity to make informed security and business decisions.
 
-I bring 5+ years of experience in help desk leadership, enterprise IT operations, and cybersecurity, supporting large-scale environments. I'm open to opportunities across IT and cybersecurity where I can build on that experience, deepen my skills in cloud infrastructure, identity and access management, and vulnerability management, and contribute to meaningful technical work.
+I bring 5+ years of experience in help desk leadership, enterprise IT operations, and cybersecurity, supporting large-scale environments. I'm open to opportunities across IT and cybersecurity where I can build on that experience, strengthen my skills in threat detection and vulnerability management, and grow in cloud infrastructure and identity and access management.
 
 I look forward to expanding my portfolio with more lab projects and continuing to share what I learn along the way!
 
